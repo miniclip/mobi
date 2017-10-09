@@ -1,0 +1,13 @@
+{
+    "name": "miniclip/mobi",
+    "description": "A small library to gather mobile OS versions",
+    "type": "library",
+    "license": "MIT license",
+    "authors": [
+        {
+            "name": "Fabio Souto",
+            "email": "fabio.souto@miniclip.com"
+        }
+    ],
+    "require": {}
+}
