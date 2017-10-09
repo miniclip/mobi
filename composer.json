@@ -9,5 +9,10 @@
             "email": "fabio.souto@miniclip.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": { "miniclip\\mobi\\": "src" }
+    }
 }
