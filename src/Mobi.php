@@ -4,6 +4,9 @@ namespace miniclip\mobi;
 
 /**
 * Mobi.
+* This is a very small utility class to keep track of current mobile operating system versions.
+* @author Fabio Souto <fabio.souto@miniclip.com>
+* @license MIT License
 */
 class Mobi
 {
