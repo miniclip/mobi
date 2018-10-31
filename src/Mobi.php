@@ -30,7 +30,8 @@ class Mobi
             'Lollipop'              => '5.0',
             'Marshmallow'           => '6.0',
             'Nougat'                => '7.0',
-            'Oreo'                  => '8.0'
+            'Oreo'                  => '8.0',
+            'Pie'                   => '9.0'
         ];
     }
 
@@ -49,7 +50,8 @@ class Mobi
             'iOS 8'     => '8',
             'iOS 9'     => '9',
             'iOS 10'    => '10',
-            'iOS 11'    => '11'
+            'iOS 11'    => '11',
+            'iOS 12'    => '12'
         ];
     }
 }
